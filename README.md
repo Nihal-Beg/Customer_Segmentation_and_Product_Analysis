@@ -1,4 +1,4 @@
-<h1>Statoculus</h1>
+<h1>Statoculus - Product Analysis and Customer Segmentation</h1>
 
 <p align = "justify">
 Statoculus delves into data to uncover sales insights across diverse product categories. We gathered extensive data from electronics, automobiles, furniture, mobile phones, and laptops, sourced from both retail stores and major 
